@@ -1,2 +1,15 @@
 # ChangeWritingStyle
-automatically change the styles of writings
+Automatically change the styles of writings.
+자동으로 글의 문체를 변형해주는 프로그램.
+
+예) 밥 먹었니? <=> 니 밥 묵었나?
+
+# 고려사항
+1. 동의어/유의어 정보 수집 방법
+2. 유행어/관용어 등 너무 빠르게 변화하는 언어적 특성
+3. 변형할 수 있는 문체의 수를 제한 또는 비슷한 문체들끼리 일반화
+4. 문체가 달라질 때 주로 어미와 단어의 차이가 있음
+  예) 밥 먹었니? <=> 진지 잡수셨어요?
+  
+# 구현방법
+...
